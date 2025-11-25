@@ -1,0 +1,224 @@
+{
+  "pays": "États-Unis",
+  "drapeau": "🇺🇸",
+  "symbole": "🌴",
+  "titre": "Miami Vibes : Soleil, Art Déco et Saveurs Cubaines",
+  "budget": "2200€",
+  "duree": "7 jours",
+  "temps_vol": "environ 9h30",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sous les palmiers",
+      "legende": "Atterrissage en douceur en Floride. Prenez le temps de vous installer et de vous imprégner de l'atmosphère électrique de South Beach avec une première balade sur le célèbre Ocean Drive.",
+      "lieu": "Miami Beach",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Miami (MIA)",
+        "🛏️ Installation à votre hôtel à South Beach",
+        "🚶‍♀️ Balade découverte sur Ocean Drive"
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "😴",
+          "titre": "Jet Lag",
+          "texte": "Le décalage horaire est de -6h. Évitez la sieste pour vous adapter plus vite et profitez de la soirée pour dîner tôt."
+        },
+        {
+          "symbole": "ℹ️",
+          "titre": "ESTA",
+          "texte": "N'oubliez pas de faire votre demande d'autorisation de voyage ESTA en ligne au moins 72h avant votre départ."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🎨",
+      "titre": "Art Déco et sable blanc",
+      "legende": "Plongez dans le glamour des années 30 en explorant le quartier Art Déco, puis détendez-vous sur l'une des plages les plus célèbres du monde.",
+      "lieu": "Miami Beach",
+      "activites": [
+        "🏛️ Visite du quartier historique Art Déco",
+        "🏖️ Après-midi farniente sur South Beach"
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Visite Guidée",
+          "texte": "L'Art Deco Welcome Center propose des visites guidées à pied très instructives pour ne rien manquer des joyaux architecturaux du quartier."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Spot Photo",
+          "texte": "Les cabanes de sauveteurs colorées le long de la plage sont emblématiques de Miami. Parfaites pour vos photos souvenirs !"
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🖼️",
+      "titre": "Street Art et Design",
+      "legende": "Une journée dédiée à l'art contemporain, des fresques murales monumentales de Wynwood à l'élégance des galeries du Design District.",
+      "lieu": "Wynwood & Design District",
+      "activites": [
+        "🎨 Exploration des Wynwood Walls et du quartier",
+        "🛍️ Balade et lèche-vitrines dans le Design District"
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Bonnes chaussures",
+          "texte": "Wynwood est un musée à ciel ouvert qui s'explore à pied. Prévoyez des chaussures confortables pour arpenter les rues."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "Utilisez un VTC (Uber/Lyft) pour vous déplacer facilement entre Wynwood et le Design District, qui sont assez proches."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🇨🇺",
+      "titre": "¡Bienvenido a Little Havana!",
+      "legende": "Imprégnez-vous de la culture cubaine au cœur de Miami. Entre musique salsa, odeurs de cigares et saveurs authentiques, le dépaysement est garanti.",
+      "lieu": "Little Havana",
+      "activites": [
+        "🚶‍♂️ Découverte de la Calle Ocho et son Walk of Fame",
+        "☕ Dégustation de café cubain et de pastelitos"
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎲",
+          "titre": "Domino Park",
+          "texte": "Faites un arrêt au Máximo Gómez Park pour observer les parties de dominos passionnées des habitants, une véritable institution."
+        },
+        {
+          "symbole": "🎵",
+          "titre": "Ambiance",
+          "texte": "Le quartier est particulièrement vivant en fin d'après-midi, lorsque la musique s'échappe des bars et des restaurants."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🐊",
+      "titre": "Aventure dans les Everglades",
+      "legende": "Échappez à l'agitation urbaine pour une immersion dans l'écosystème unique des Everglades. Une journée au plus près de la faune sauvage de Floride.",
+      "lieu": "Everglades National Park",
+      "activites": [
+        "🚤 Tour en hydroglisseur (airboat) à la recherche des alligators",
+        "🚶‍♀️ Balade sur les sentiers du parc (ex: Anhinga Trail)"
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🦟",
+          "titre": "Indispensable",
+          "texte": "N'oubliez pas l'anti-moustiques, des lunettes de soleil, un chapeau et de l'eau, surtout pendant les mois chauds."
+        },
+        {
+          "symbole": "🎟️",
+          "titre": "Réservation",
+          "texte": "Il est conseillé de réserver votre tour en airboat à l'avance, surtout en haute saison, pour éviter les longues attentes."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏛️",
+      "titre": "Élégance et Eaux Turquoises",
+      "legende": "Découvrez le faste de l'âge d'or américain à la Villa Vizcaya avant de vous rafraîchir dans le cadre unique de la Venetian Pool.",
+      "lieu": "Coconut Grove & Coral Gables",
+      "activites": [
+        "🏰 Visite de la Villa Vizcaya, son musée et ses jardins",
+        "🏊 Baignade dans la piscine historique Venetian Pool"
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Venetian Pool",
+          "texte": "Cette piscine publique, creusée dans une ancienne carrière de corail, est alimentée par une source d'eau douce et vidée quotidiennement."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Vizcaya Gardens",
+          "texte": "Les jardins de la villa sont un lieu magnifique pour des photos, avec leurs fontaines, sculptures et vue sur la baie de Biscayne."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Shopping et Départ",
+      "legende": "Profitez de votre dernière matinée pour une session shopping sur la célèbre avenue piétonne de Lincoln Road avant de prendre le chemin du retour, des souvenirs plein la tête.",
+      "lieu": "Miami Beach",
+      "activites": [
+        "🛍️ Shopping sur Lincoln Road Mall",
+        "🛫 Départ depuis l'aéroport de Miami (MIA)"
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Aéroport",
+          "texte": "Prévoyez d'arriver à l'aéroport MIA au moins 3 heures avant le décollage de votre vol international."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Lincoln Road est l'endroit idéal pour trouver des cadeaux de dernière minute pour tous les goûts et tous les budgets."
+        }
+      ]
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Mars à Mai et d'Octobre à Novembre.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Passeport valide et autorisation de voyage ESTA obligatoire. À demander en ligne avant le départ.",
+      "symbole": "🛂"
+    },
+    {
+      "titre": "Le dollar américain (USD) est la monnaie. Les pourboires (tips) de 15-20% sont la norme.",
+      "symbole": "💵"
+    },
+    {
+      "titre": "La location de voiture est recommandée pour les excursions. Les VTC (Uber/Lyft) sont très pratiques en ville.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Prévoir des vêtements légers, maillot de bain, lunettes de soleil et crème solaire indice élevé.",
+      "symbole": "👕"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Miami",
+      "url": "https://www.miamiandbeaches.fr/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Demande d'autorisation de voyage",
+      "titre": "Site officiel ESTA",
+      "url": "https://esta.cbp.dhs.gov/",
+      "symbole": "📝"
+    },
+    {
+      "legende": "Parc National",
+      "titre": "Everglades National Park",
+      "url": "https://www.nps.gov/ever/index.htm",
+      "symbole": "🐊"
+    }
+  ]
+}
