@@ -1,0 +1,224 @@
+{
+  "pays": "États-Unis",
+  "drapeau": "🇺🇸",
+  "symbole": "🌴",
+  "titre": "Miami Vibes: Art Déco, Plages et Everglades",
+  "budget": "2200€",
+  "duree": "7 jours",
+  "temps_vol": "environ 9h30",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Ambiance Art Déco",
+      "legende": "Atterrissage en douceur en Floride. Première immersion dans l'atmosphère unique de South Beach avec une balade sur le célèbre Ocean Drive à la lueur du crépuscule.",
+      "lieu": "Miami Beach",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Miami (MIA)",
+        "🛏️ Installation à l'hôtel à South Beach",
+        "🚶‍♀️ Balade découverte sur Ocean Drive"
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Formalités",
+          "texte": "N'oubliez pas de faire votre demande d'autorisation de voyage ESTA au moins 72h avant le départ. Elle est obligatoire."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Transfert aéroport",
+          "texte": "Des navettes (Supershuttle) ou des VTC (Uber/Lyft) sont des options pratiques et abordables pour rejoindre South Beach depuis l'aéroport."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🎨",
+      "titre": "Street Art et Design",
+      "legende": "Plongez dans l'univers coloré du street art à Wynwood avant de découvrir le luxe et l'élégance du Design District, deux quartiers voisins et incontournables.",
+      "lieu": "Wynwood & Design District",
+      "activites": [
+        "🎨 Exploration des Wynwood Walls et du quartier",
+        "🛍️ Flânerie dans le Design District"
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le quartier de Wynwood est une galerie à ciel ouvert. Prévoyez de la batterie pour votre appareil photo, chaque mur est une œuvre d'art !"
+        },
+        {
+          "symbole": "👟",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables, la visite de ces deux quartiers se fait principalement à pied pour ne rien manquer."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐊",
+      "titre": "Aventure dans les Everglades",
+      "legende": "Échappée sauvage au cœur des Everglades. Une journée dédiée à la découverte d'un écosystème unique au monde, à la rencontre des alligators à bord d'un hydroglisseur.",
+      "lieu": "Parc National des Everglades",
+      "activites": [
+        "🚤 Tour en hydroglisseur (Airboat)",
+        "🚶‍♂️ Balade sur le sentier Anhinga Trail pour observer la faune"
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🦟",
+          "titre": "Protection",
+          "texte": "Pensez à emporter un anti-moustiques, de la crème solaire et un chapeau. Le soleil de Floride et les insectes peuvent être intenses."
+        },
+        {
+          "symbole": "🎟️",
+          "titre": "Réservation",
+          "texte": "Il est conseillé de réserver votre tour en hydroglisseur à l'avance, surtout en haute saison, pour garantir votre place."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🇨🇺",
+      "titre": "Ambiance Cubaine et Skyline",
+      "legende": "Immersion dans la culture cubaine à Little Havana le matin, puis direction le centre-ville pour admirer la skyline et l'animation de Bayside Marketplace.",
+      "lieu": "Little Havana & Downtown",
+      "activites": [
+        "🚶‍♂️ Découverte de Little Havana et de la Calle Ocho",
+        "🏙️ Visite de Bayside Marketplace et du front de mer"
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause gourmande",
+          "texte": "Ne quittez pas Little Havana sans avoir goûté un authentique 'cafecito' (café cubain) et une 'pastelito' (pâtisserie)."
+        },
+        {
+          "symbole": "🚝",
+          "titre": "Transport gratuit",
+          "texte": "Utilisez le Metromover à Downtown. C'est un métro aérien gratuit qui offre de superbes vues sur les gratte-ciels."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏖️",
+      "titre": "Détente à South Beach",
+      "legende": "Journée de farniente bien méritée. Profitez des vues panoramiques depuis South Pointe Park avant de vous prélasser sur le sable blanc de la plage la plus célèbre de Miami.",
+      "lieu": "Miami Beach",
+      "activites": [
+        "🌳 Promenade à South Pointe Park et sur sa jetée",
+        "☀️ Après-midi plage et baignade à South Beach"
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Sécurité",
+          "texte": "Faites attention aux drapeaux de baignade. Les courants peuvent être forts. Les postes de secours colorés sont aussi une icône de la plage."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Marchez jusqu'au bout de la jetée de South Pointe Park pour une vue imprenable sur la skyline de Miami et les bateaux de croisière."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🚲",
+      "titre": "Évasion à Key Biscayne",
+      "legende": "Une journée au calme sur l'île de Key Biscayne. Explorez le parc naturel, montez au sommet du phare historique et profitez de plages plus sauvages et familiales.",
+      "lieu": "Key Biscayne",
+      "activites": [
+        "🏞️ Visite du Bill Baggs Cape Florida State Park",
+        "🏖️ Détente sur la plage de Crandon Park"
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Accès",
+          "texte": "L'accès à Key Biscayne se fait par un pont à péage (Rickenbacker Causeway). Le paiement est électronique (SunPass ou Toll-by-Plate)."
+        },
+        {
+          "symbole": "🚲",
+          "titre": "Activité",
+          "texte": "L'île est parfaite pour une balade à vélo. De nombreuses pistes cyclables permettent de l'explorer en toute sécurité."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Shopping et Départ",
+      "legende": "Derniers moments à Miami pour un peu de shopping sur l'avenue piétonne de Lincoln Road avant de prendre le chemin du retour, des souvenirs plein la tête.",
+      "lieu": "Miami Beach",
+      "activites": [
+        "🛍️ Shopping sur Lincoln Road",
+        "🛫 Départ depuis l'aéroport de Miami (MIA)"
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Dernier repas",
+          "texte": "Lincoln Road regorge de restaurants avec terrasses, idéal pour un dernier déjeuner au soleil avant de partir."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Aéroport",
+          "texte": "Prévoyez d'arriver à l'aéroport MIA au moins 3 heures avant le décollage de votre vol international."
+        }
+      ]
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Novembre à Avril.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "ESTA obligatoire pour les ressortissants français. À demander en ligne avant le départ.",
+      "symbole": "🛂"
+    },
+    {
+      "titre": "La monnaie est le Dollar Américain (USD). Les cartes de crédit sont acceptées partout. Les pourboires (tips) sont quasi-obligatoires (15-20%).",
+      "symbole": "💵"
+    },
+    {
+      "titre": "La location de voiture est recommandée pour les excursions (Everglades, Key Biscayne). Permis français suffisant.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Achetez une carte SIM locale (T-Mobile, AT&T) ou une eSIM pour rester connecté à moindre coût.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Greater Miami Convention & Visitors Bureau",
+      "url": "https://www.miamiandbeaches.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Parc National des Everglades",
+      "titre": "National Park Service",
+      "url": "https://www.nps.gov/ever/index.htm",
+      "symbole": "🐊"
+    },
+    {
+      "legende": "Transports en commun",
+      "titre": "Miami-Dade Transit",
+      "url": "https://www.miamidade.gov/global/transportation/home.page",
+      "symbole": "🚌"
+    }
+  ]
+}
